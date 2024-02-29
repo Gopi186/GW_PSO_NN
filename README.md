@@ -48,5 +48,5 @@ g) Results:  We get a maximum validation accuracy of 0.96 for our classification
 
 h) After plotting the confusion matrix, which is created using the test data, which is 20% of the training data set. The training data set comprises 200 (signal+noise) injections and 50 Gaussian noise injections; this implies that the noise signal data comprises 20% of the total training data and 10% of the test data. Figure 4.16 shows that 76.5% of the test data is correctly classified as GW signal, and 16.5% of the noise is correctly classified as noise, there is approximately 7% is a false negative, i.e., the signal being predicted as noise and 0%false positive, i.e., no noise is falsely detected as the signal.
 
-i) COmparison with PSO: on comparing the error in estimating the component masses by the neural network model with the PSO algorithm for the mass range of 40-60 Mo- for the PSO algorithm the maximum number of injections lie around the error region of 8.4 Mo for component mass1 and 6.98 Mo for component mass2.
+i) Comparison with PSO: on comparing the error in estimating the component masses by the neural network model with the PSO algorithm for the mass range of 40-60 Mo- for the PSO algorithm the maximum number of injections lie around the error region of 8.4 Mo for component mass1 and 6.98 Mo for component mass2.
 
